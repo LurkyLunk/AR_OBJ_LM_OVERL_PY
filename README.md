@@ -33,7 +33,7 @@ The AR Overlay System combines object recognition capabilities with landmark det
 1. **Clone the Repository**
    
    ```
-   git clone [repository link]
+   git clone https://github.com/LurkyLunk/AR_OBJ_LM_OVERL_PY.git
    ```
 
 2. **Install Dependencies**
@@ -53,7 +53,7 @@ The AR Overlay System combines object recognition capabilities with landmark det
 1. Run the application:
 
    ```
-   python [your_script_name].py
+   python vision_api_script.py
    ```
 
 2. Point the camera towards objects or landmarks.
