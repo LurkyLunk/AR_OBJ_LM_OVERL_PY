@@ -6,7 +6,7 @@ import numpy as np
 from google.cloud import vision
 
 # Google Cloud Credentials
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r'Scripts/glassy-airway-402122-e3c3c1023c8c.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r''
 
 # Load TensorFlow pre-trained model
 model = tf.keras.applications.MobileNetV2(weights='imagenet', include_top=True)
